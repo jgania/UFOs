@@ -924,7 +924,7 @@ var data = [
       country: "us",
       shape: "changing",
       durationMinutes: "3 minutes",
-      comments: "black floating object with lights"
+      comments: "black floating object wit h lights"
     },
     {
       datetime: "1/12/2010",
